@@ -1,0 +1,68 @@
+.retrive-lock-wind {
+    margin: auto;
+    margin-top: 10%;
+    width: fit-content;
+    height: fit-content;
+    padding: 15px;
+    box-shadow: 0px 0px 10px 1px rgb(129, 129, 129);
+    border-radius: 8px;
+    text-transform: capitalize;
+}
+
+.retrieve-lock-container {
+    padding: 10px;
+}
+
+.retrive-lock-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.retrive-locks {
+    margin: 40px 5px;
+    width: 80px;
+    height: fit-content;
+    padding: 20px;
+    box-shadow: 0px 0px 8px 1px #747474;
+    border-radius: 8px;
+    cursor: pointer;
+    color: #F17829;
+    border: none;
+    background-color: #333c57;
+    transition: .4s ease-out;
+}
+
+.retrive-locks-selected {
+    margin: 40px 5px;
+    width: 80px;
+    height: fit-content;
+    padding: 20px;
+    box-shadow: 0px 0px 8px 1px #3a3532;
+    border-radius: 8px;
+    cursor: pointer;
+    color: #1E367B;
+    border: none;
+    background-color: #ffe7d7;
+    transition: .4s ease-in;
+}
+
+/* .retrive-locks:hover {
+    background-color: #ffd0b0;
+    color: #1E367B;
+} */
+
+.btn-container {
+    margin: 20px 10%; 
+}
+
+.retrive-lock-header {
+    color: #F17829;
+    margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .retrive-lock-wind{
+        margin-top: 35% ;
+    }
+}

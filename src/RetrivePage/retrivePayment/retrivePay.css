@@ -1,0 +1,23 @@
+.retrive-pay-wind {
+    box-shadow: 0px 0px 6px 1px #1E367B;
+    border-radius: 8px;
+    padding: 20px;
+    width: fit-content;
+    margin: 40px auto;
+}
+
+.container-item-header {
+    color: #1E367B;
+    padding: 10px;
+    text-transform: capitalize;
+}
+
+.retrive-payment-container {
+    padding: 10px;
+}
+
+.retr-pay-fail-wind {
+    padding: 10px;
+    margin: auto;
+    width: 300px;
+}

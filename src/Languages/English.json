@@ -1,0 +1,84 @@
+{
+    
+     
+        "OpeningPage":{
+            "hello":"HELLO! Welcome to AuroLocker",
+            "storeBtn":"Store",
+            "retrieveBtn":"Retrieve"
+        },
+
+        "LoginPage":{
+            "authenticateTitle":"Authenticate Here!!",
+            "mobileNo":"Enter Your Mobile Number",
+            "termschbox":"Accept",
+            "otpBtn":"Generate OTP"
+        },
+        
+        "LoginOTP":{
+            "otpTitle":"Enter your OTP in",
+            "otpTxt":"otp",
+            "resendOTP":"RESEND OTP",
+            "otpConfirmBtn":"CONFIRM OTP",
+            "timeup":"TIMES UP"
+        },
+        
+        "LockerReservationPage":{
+            "lockerReservationTitle":"choose lock to store",
+            "confirmBookingBtn":"proceed...",
+            "cancelBtn":"CANCEL",
+            "logoutBtn":"LOGOUT"
+        },
+
+        "LockerStoreingTime":{
+            "LockerStoreingTimeTitle":"How long do you want to store ?",
+            "nextBtn":"Proceed"
+        },
+
+        "TypePasscode":{
+            "PasscodeTitle":"Enter 4 digit passcode",
+            "passcodeTxtBox":"Passcode",
+            "verifyPasscodeTxtBox":"Verify Passcode",
+            "confirmBtn":"CONFIRM"
+        },
+
+        "SelectedLockerData":{
+            "terminalIDLbl":"Terminal ID",
+            "userName":"User Name",
+            "mobileno":"Mobile Number",
+            "lockerSelected":"Selected Locker",
+            "totalTime":"Total Time",
+            "totalAmount":"Total Amount",
+            "proceedBtn":"Proceed to pay",
+            "backBtn":"Back to",
+            "changeLockerBtn":"choose Diff Lock"
+
+        },
+
+        "PaymentSuccessful":{
+            "PaymentSuccessful":"Payment Successful Recieved",
+            "thankLabel":"Thank you for using AuroLocker",
+            "chooseAnotherLockerBtn":"CHOOSE ANOTHER LOCKER",
+            "cancelBtn":"CANCEL",
+            "logoutBtn":"LOGOUT"
+        },
+
+        "RetrievePage":{
+            "PasscodeTitle":"Enter Details To Retrieve Your Lock",
+            "mobileNo":"Mobile Number",
+            "passcodeLabel":"Passcode",
+            "confirmBtn":"CONFIRM",
+            "forgotPasscodeBtn":"Forgot Passcode"
+        },
+
+        "SelectLockerRetrievePage":{
+            "selectLockerRetrieveTitle":"Retrieve Your Lock Here",
+            "openLockerBtn":"Open Lock"
+        },
+
+        "AfterLocksOpenMessage":{
+            "afterLocksOpenMessage":"Selected Lock Is Open, Please Close The Lock After Retrieving Your Items"
+        }
+
+
+    }
+    

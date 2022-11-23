@@ -1,0 +1,83 @@
+{
+
+    "OpeningPage":{
+        "hello":"नमस्ते! ऑरोलॉकर में आपका स्वागत है",
+        "storeBtn":"संग्रह करना",
+        "retrieveBtn":"फिर से प्राप्त करना"
+    },
+
+    "LoginPage":{
+        "authenticateTitle":"यहां प्रमाणित करें !!",
+        "mobileNo":"मोबाइल नंबर दर्ज करें",
+        "termschbox":"नियम और शर्तें स्वीकार हैं",
+        "otpBtn":"ओटीपी जनरेट करें"
+    },
+    
+    "LoginOTP":{
+        "otpTitle":"अपना ओटीपी यहां दर्ज करें",
+        "otpTxt":"ओटीपी दर्ज करें",
+        "resendOTP":"ओटीपी पुनः भेजें",
+        "otpConfirmBtn":"ओटीपी की पुष्टि करें",
+        "timeup":"समय पूर्ण हुआ"
+    },
+    
+    "LockerReservationPage":{
+        "lockerReservationTitle":"यहां लॉकर आरक्षण",
+        "confirmBookingBtn":"बुकिंग की पुष्टि करें",
+        "cancelBtn":"रद्द करना",
+        "logoutBtn":"लॉग आउट"
+
+    },
+
+    "LockerStoreingTime":{
+        "LockerStoreingTimeTitle":"आप कब तक स्टोर करना चाहते हैं?",
+        "nextBtn":"अगला"
+    },
+
+    "TypePasscode":{
+        "PasscodeTitle":"यहां 4 अंकों का पासकोड दर्ज करें",
+        "passcodeTxtBox":"पासकोड",
+        "verifyPasscodeTxtBox":"पासकोड सत्यापित करें",
+        "confirmBtn":"पुष्टि करें"
+    },
+
+    "SelectedLockerData":{
+        "terminalIDLbl":"टर्मिनल आईडी",
+        "userName":"उपयोगकर्ता नाम",
+        "mobileno":"मोबाइल नंबर",
+        "lockerSelected":"चयनित लॉकर",
+        "totalTime":"कुल समय",
+        "totalAmount":"Total Amount",
+        "proceedBtn":"चुकाने के लिए कार्रवाई शुरू करो",
+        "backBtn":"वापस",
+        "changeLockerBtn":"लॉकर बदलें"
+
+    },
+
+    "PaymentSuccessful":{
+        "PaymentSuccessful":"भुगतान सफल",
+        "thankLabel":"ऑरोलॉकर का उपयोग करने के लिए धन्यवाद",
+        "chooseAnotherLockerBtn":"दूसरा लॉकर चुनें",
+        "cancelBtn":"रद्द करना",
+        "logoutBtn":"लॉग आउट"
+    },
+
+    "RetrievePage":{
+        "PasscodeTitle":"अपना पासकोड यहां दर्ज करें",
+        "mobileNo":"मोबाइल नंबर",
+        "passcodeLabel":"पासकोड",
+        "confirmBtn":"पुष्टि करें",
+        "forgotPasscodeBtn":"पासकोड भूल गए"
+    },
+
+    "SelectLockerRetrievePage":{
+        "selectLockerRetrieveTitle":"अपना लॉकर यहां प्राप्त करें",
+        "openLockerBtn":"लॉकर खोलें"
+    },
+
+    "AfterLocksOpenMessage":{
+        "afterLocksOpenMessage":"आप आगे बढ़ने के लि ठीक हो"
+    }
+
+
+}

@@ -1,0 +1,31 @@
+.brand-name {
+    color: #1E367B ;
+}
+
+.success-header-container {
+    color: #F17829;
+}
+
+.retr-success-container {
+    padding: 10px;
+    width: fit-content;
+    margin: auto;
+}
+
+.retr-success-wind {
+    box-shadow: 0px 0px 10px 1px #1E367B;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20%;
+}
+
+.tuckit-text-logo {
+    margin-top: -30px;
+    margin-bottom: -30px;
+}
+
+@media screen and (max-width: 600px) {
+    .retr-success-wind {
+        margin-top: 45%;
+    }
+}

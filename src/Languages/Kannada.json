@@ -1,0 +1,82 @@
+{
+
+    "OpeningPage":{
+        "hello":"ಹಲೋ! ಆರೋಲಾಕರ್ಗೆ ಸುಸ್ವಾಗತ",
+        "storeBtn":"ಸ೦ಗ್ರಹ",
+        "retrieveBtn":"ಹಿಂಪಡೆಯಲು"
+    },
+
+    "LoginPage":{
+        "authenticateTitle":"ಇಲ್ಲಿ ಪ್ರಮಾಣೀಕರಿಸಿ!!",
+        "mobileNo":"ಮೊಬೈಲ್ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ",
+        "termschbox":"ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳನ್ನು ಸ್ವೀಕರಿಸುತ್ತೇನೆ",
+        "otpBtn":"ಒಟಿಪಿ ರಚಿಸಿ"
+    },
+    
+    "LoginOTP":{
+        "otpTitle":"ನಿಮ್ಮ ಒಟಿಪಿ ಅನ್ನು ಇಲ್ಲಿ ನಮೂದಿಸಿ",
+        "otpTxt":"ಒಟಿಪಿ",
+        "resendOTP":"ಮರುಕಳುಹಿಸಿ ಒಟಿಪಿ",
+        "otpConfirmBtn":"ದೃಢೀಕರಿಸಿ ಒಟಿಪಿ",
+        "timeup":"ವೇಳೆಯಾಯಿತು"
+    },
+    
+    "LockerReservationPage":{
+        "lockerReservationTitle":"ಇಲ್ಲಿ ಲಾಕರ್ ಕಾಯ್ದಿರಿಸುವಿಕೆ",
+        "confirmBookingBtn":"ಬುಕಿಂಗ್ಅನ್ನು ದೃಢೀಕರಿಸಿ",
+        "cancelBtn":"ರದ್ದುಮಾಡು",
+        "logoutBtn":"ಲಾಗ್ ಔಟ್"
+
+    },
+
+    "LockerStoreingTime":{
+        "LockerStoreingTimeTitle":"ನೀವು ಎಷ್ಟು ಸಮಯದವರೆಗೆ ಸಂಗ್ರಹಿಸಲು ಬಯಸುತ್ತೀರಿ?",
+        "nextBtn":"ಮುಂದೆ"
+    },
+
+    "TypePasscode":{
+        "PasscodeTitle":"4 ಅಂಕಿಗಳ ಪಾಸ್ಕೋಡನ್ನು ಇಲ್ಲಿ ನಮೂದಿಸಿ",
+        "passcodeTxtBox":"ಪಾಸ್ಕೋಡ್",
+        "verifyPasscodeTxtBox":"ಪಾಸ್ಕೋಡನ್ನು ಪರಿಶೀಲಿಸಿ",
+        "confirmBtn":"ದೃಢೀಕರಿಸಿ"
+    },
+
+    "SelectedLockerData":{
+        "terminalIDLbl":"ಟರ್ಮಿನಲ್ ಐಡಿ",
+        "userName":"ಬಳಕೆದಾರ ಹೆಸರು",
+        "mobileno":"ಮೊಬೈಲ್ ಸಂಖ್ಯೆ",
+        "lockerSelected":"ಆಯ್ಕೆಮಾಡಿದ ಲಾಕರ್",
+        "totalTime":"ಒಟ್ಟು ಸಮಯ",
+        "totalAmount":"ಒಟ್ಟು ಮೊತ್ತ",
+        "proceedBtn":"ಪಾವತಿಸಲು ಮುಂದುವರಿಯಿರಿ",
+        "backBtn":"ಹಿಂತಿರುಗಿ",
+        "changeLockerBtn":"ಲಾಕರ್ ಬದಲಾಯಿಸಿ"
+
+    },
+
+    "PaymentSuccessful":{
+        "PaymentSuccessful":"ಪಾವತಿ ಯಶಸ್ವಿಯಾಗಿದೆ",
+        "thankLabel":"ಆರೋಲಾಕರ್ಗೆ ಬಳಸಿದ್ದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು",
+        "chooseAnotherLockerBtn":"ಮತ್ತೊಂದು ಲಾಕರನ್ನು ಆರಿಸಿ",
+        "cancelBtn":"ರದ್ದುಮಾಡು",
+        "logoutBtn":"ಲಾಗ್ ಔಟ್"
+    },
+
+    "RetrievePage":{
+        "PasscodeTitle":"ನಿಮ್ಮ ಪಾಸ್ಕೋಡನ್ನು ಇಲ್ಲಿ ನಮೂದಿಸಿ",
+        "mobileNo":"ಮೊಬೈಲ್ ಸಂಖ್ಯೆ",
+        "passcodeLabel":"ಪಾಸ್ಕೋಡ್",
+        "confirmBtn":"ದೃಢೀಕರಿಸಿ",
+        "forgotPasscodeBtn":"ಪಾಸ್‌ಕೋಡ್ ಮರೆತಿದ್ದರೆ"
+    },
+
+    "SelectLockerRetrievePage":{
+        "selectLockerRetrieveTitle":"ನಿಮ್ಮ ಲಾಕರನ್ನು ಇಲ್ಲಿ ಹಿಂಪಡೆಯಿರಿ",
+        "openLockerBtn":"ಲಾಕರ್ ತೆರೆಯಿರಿ"
+    },
+
+    "AfterLocksOpenMessage":{
+        "afterLocksOpenMessage":"ನೀವು ಹೋಗುವುದು ಒಳ್ಳೆಯದು"
+    }
+
+}

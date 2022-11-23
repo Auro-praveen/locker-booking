@@ -1,0 +1,71 @@
+.passcode-header {
+    color: #c44e00;
+}
+
+.retrive-page-container {
+    padding: 25px;
+}
+
+.forgot-passcode {
+    float: left;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.forgot-passcode-wind {
+    padding: 25px;
+    margin: auto;
+    box-shadow: 0px 0px 8px 1px rgb(131, 131, 131);
+    border-radius: 8px;
+    width: fit-content;
+    overflow: hidden;
+    margin-top: 12%;
+}
+
+.passcode-wind {
+    padding: 25px;
+    margin: auto;
+    box-shadow: 0px 0px 8px 1px rgb(131, 131, 131);
+    border-radius: 8px;
+    width: fit-content;
+    overflow: hidden;
+    margin-top: 12%;
+}
+
+.verifyotp-win {
+    margin: 30px auto;
+    transition: .3s ease;
+}
+
+.verify-otp-container {
+    padding: 20px;
+}
+
+.verify-otp-wind {
+    margin: 12% auto;
+    border-radius: 8px;
+    box-shadow: 0px 0px 6px 1px rgb(148, 148, 148);
+    padding: 20px;
+    color: #c44e00;
+}
+
+.timout {
+    color: #1E367B;
+}
+
+@media only screen and (max-width : 600px) {
+    .verify-otp-container {
+        margin: 30% auto;
+    }
+
+    .passcode-wind {
+        margin-top: 20%;
+    }
+
+    .forgot-passcode-wind {
+        margin-top: 35%;
+    }
+}
